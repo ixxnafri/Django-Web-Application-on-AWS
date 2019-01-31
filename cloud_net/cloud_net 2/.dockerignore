@@ -1,0 +1,7 @@
+.git
+node_modules
+build
+READ*
+webpack-stats.json
+.idea
+.vscode
